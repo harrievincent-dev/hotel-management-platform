@@ -1,5 +1,3 @@
-# hotel-management-platform
-
 # Hotel Management Platform
 
 ## 🏨 Multi-Tenant Hospitality Management System
